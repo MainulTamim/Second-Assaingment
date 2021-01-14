@@ -41,3 +41,9 @@ box-shadow: 0px 0px 117px -49px rgba(0,0,0,0.75);
 .products .card img{
     max-width: 300px !important;
 }
+.panda-card{
+    border: 0;
+}
+.panda-footer{
+    border: 0;
+}
