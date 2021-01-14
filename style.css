@@ -1,0 +1,40 @@
+body{
+    font-family: 'Oswald', sans-serif;
+/* font-family: 'Montserrat', sans-serif; */
+}
+#logo{
+    max-width: 300px;
+}
+.navbar-nav .nav-link{
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+#header-top
+{
+    background-color: rgba(255, 228, 196, 0.473);
+}
+#banner-img{
+    max-width: 400px;
+}
+#main-text{
+    font-size: 4rem;
+    font-weight: 800;
+    color: darkslategray;
+}
+#main-text span{
+    color: lightgreen;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.featurs .card img{
+    max-width: 100px;
+}
+#rounded-1,#rounded-2,#rounded-3{
+    border-radius: 20px !important;
+    outline: none !important;
+    border: 0 !important;
+    -webkit-box-shadow: 0px 0px 117px -49px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 117px -49px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 117px -49px rgba(0,0,0,0.75);
+}
